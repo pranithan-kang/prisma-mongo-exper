@@ -1,5 +1,11 @@
-Reference
+Prisma Connect to Mongodb Experimental
+---
+This project demonstrate the connection of prisma to mongodb
 
-https://hub.docker.com/_/mongo
-https://github.com/prisma/prisma/discussions/22442
-https://github.com/prisma/prisma/issues/8266
+Reference
+---
+
+https://hub.docker.com/_/mongo  
+https://github.com/prisma/prisma/discussions/22442  
+https://github.com/prisma/prisma/issues/8266  
+https://www.prisma.io/docs/getting-started/setup-prisma/start-from-scratch/mongodb/querying-the-database-typescript-mongodb
