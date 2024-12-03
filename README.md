@@ -2,6 +2,13 @@ Prisma Connect to Mongodb Experimental
 ---
 This project demonstrate the connection of prisma to mongodb
 
+How to run
+---
+
+```shell
+npx tsx index.ts
+```
+
 Reference
 ---
 
